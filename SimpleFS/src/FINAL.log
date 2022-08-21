@@ -1,0 +1,94 @@
+====== test_public.log ======
+>SPLIT<
+>TEST=test_cat<
+>Program Output<
+[RESULT]Success
+>Expected Output<
+[RESULT]Success
+>SPLIT<
+>TEST=test_copyin<
+>Program Output<
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+>Expected Output<
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+>SPLIT<
+>TEST=test_copyout<
+>Program Output<
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+>Expected Output<
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+>SPLIT<
+>TEST=test_create<
+>Program Output<
+[RESULT]Success
+>Expected Output<
+[RESULT]Success
+>SPLIT<
+>TEST=test_debug<
+>Program Output<
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+>Expected Output<
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+>SPLIT<
+>TEST=test_format<
+>Program Output<
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+>Expected Output<
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+>SPLIT<
+>TEST=test_mount<
+>Program Output<
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+>Expected Output<
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+>SPLIT<
+>TEST=test_remove<
+>Program Output<
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+>Expected Output<
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+>SPLIT<
+>TEST=test_stat<
+>Program Output<
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+>Expected Output<
+[RESULT]Success
+[RESULT]Success
+[RESULT]Success
+====== compile.log ======
