@@ -10,3 +10,7 @@ MyShell
 
 SimpleFS
 - This is a simplified version of the Unix File System. There are three components to the program: The Shell, File System, and Disk Emulator. The Shell and Disk Emulator were provided to us, and we were required to implement the File System. This system is centered around dividing the disk into fixed size (4KB) blocks. Some of the supported operations by the File SYstem include mounting and formating a disk, creating and removing files, and writing to and reading from files.
+- The SimpleFS/data folder has a few disk images to run the file system on.
+- For example, to use the disk image image.5, we can run the following command from the SimpleFS/src folder:
+- ./sfssh ../data/image.5 5
+- Or to start with a fresh new disk image
